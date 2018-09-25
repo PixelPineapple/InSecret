@@ -1,0 +1,1926 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Texture\black.png</Source>
+      <Name>Texture\black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\black.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\block.png</Source>
+      <Name>Texture\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\block.xnb</Output>
+      <Time>2018-02-14T06:32:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\load.bmp</Source>
+      <Name>Texture\load</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\load.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\少女_正面.png</Source>
+      <Name>Texture\少女_正面</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\少女_正面.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Boundaries_Ue.png</Source>
+      <Name>Texture\Boundaries_Ue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Ue.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Boundaries_Shita.png</Source>
+      <Name>Texture\Boundaries_Shita</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Shita.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\block2.png</Source>
+      <Name>Texture\block2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\block2.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting10.png</Source>
+      <Name>Texture\PictureGimmick\painting10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting4.png</Source>
+      <Name>Texture\PictureGimmick\painting4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting6.png</Source>
+      <Name>Texture\PictureGimmick\painting6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting7.png</Source>
+      <Name>Texture\PictureGimmick\painting7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting8.png</Source>
+      <Name>Texture\PictureGimmick\painting8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting9.png</Source>
+      <Name>Texture\PictureGimmick\painting9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\picture_alphabet1.png</Source>
+      <Name>Texture\PictureGimmick\picture_alphabet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\picture_alphabet2.png</Source>
+      <Name>Texture\PictureGimmick\picture_alphabet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\picture_alphabet3.png</Source>
+      <Name>Texture\PictureGimmick\picture_alphabet3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet3.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\picture_alphabet4.png</Source>
+      <Name>Texture\PictureGimmick\picture_alphabet4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet4.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\picture_alphabet5.png</Source>
+      <Name>Texture\PictureGimmick\picture_alphabet5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet5.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\transparent.png</Source>
+      <Name>Texture\transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\transparent.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\wall_floor.png</Source>
+      <Name>Texture\Floor\wall_floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\door1.png</Source>
+      <Name>Texture\door1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\door1.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\door2.png</Source>
+      <Name>Texture\door2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\door2.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\computer_select.png</Source>
+      <Name>Texture\PictureGimmick\computer_select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\computer_select.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\light.png</Source>
+      <Name>Texture\light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\light.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\pass.png</Source>
+      <Name>Texture\PictureGimmick\pass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pass.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\pc.png</Source>
+      <Name>Texture\PictureGimmick\pc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\picture_flame.png</Source>
+      <Name>Texture\PictureGimmick\picture_flame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_flame.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\alphabet_select.png</Source>
+      <Name>Texture\PictureGimmick\alphabet_select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\alphabet_select.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\pc_enter.png</Source>
+      <Name>Texture\PictureGimmick\pc_enter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\pc_enter_select.png</Source>
+      <Name>Texture\PictureGimmick\pc_enter_select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter_select.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\wall_floor1.png</Source>
+      <Name>Texture\wall_floor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\wall_floor1.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\pc_text.png</Source>
+      <Name>Texture\PictureGimmick\pc_text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_text.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\floor_num.png</Source>
+      <Name>Texture\Floor\floor_num</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_num.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Man_Model.png</Source>
+      <Name>Texture\Man_Model</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Man_Model.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Woman_Model.png</Source>
+      <Name>Texture\Woman_Model</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Woman_Model.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\unlock.png</Source>
+      <Name>Texture\PictureGimmick\unlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\unlock.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\entrance.png</Source>
+      <Name>Texture\entrance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\entrance.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\prov_select.png</Source>
+      <Name>Texture\prov_select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_select.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\prov_titlename.png</Source>
+      <Name>Texture\prov_titlename</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_titlename.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\select_cursor.png</Source>
+      <Name>Texture\select_cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\select_cursor.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\title.png</Source>
+      <Name>Texture\title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\title.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\star.png</Source>
+      <Name>Texture\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\star1.png</Source>
+      <Name>Texture\star1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star1.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\star2.png</Source>
+      <Name>Texture\star2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star2.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\star_gameclear.png</Source>
+      <Name>Texture\star_gameclear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star_gameclear.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\rule.png</Source>
+      <Name>Texture\rule</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\rule.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\rulebutton.png</Source>
+      <Name>Texture\rulebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\rulebutton.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\select.png</Source>
+      <Name>Texture\select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\select.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\vase1_hide1.png</Source>
+      <Name>Texture\vase1_hide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide1.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\vase1_hide2.png</Source>
+      <Name>Texture\vase1_hide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide2.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\vase2_hide1.png</Source>
+      <Name>Texture\vase2_hide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide1.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\vase2_hide2.png</Source>
+      <Name>Texture\vase2_hide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide2.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\vase3_hide1.png</Source>
+      <Name>Texture\vase3_hide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide1.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\vase3_hide2.png</Source>
+      <Name>Texture\vase3_hide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide2.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\security_room.png</Source>
+      <Name>Texture\Floor\security_room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\security_room.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\saru_room.png</Source>
+      <Name>Texture\Floor\saru_room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\saru_room.xnb</Output>
+      <Time>2018-02-14T06:32:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SecurityOfficeGimmick\Hacking_Terminal.png</Source>
+      <Name>Texture\SecurityOfficeGimmick\Hacking_Terminal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Hacking_Terminal.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SecurityOfficeGimmick\Virus.png</Source>
+      <Name>Texture\SecurityOfficeGimmick\Virus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Virus.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SecurityOfficeGimmick\Firewall.png</Source>
+      <Name>Texture\SecurityOfficeGimmick\Firewall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Firewall.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SecurityOfficeGimmick\LockedFolder.png</Source>
+      <Name>Texture\SecurityOfficeGimmick\LockedFolder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\LockedFolder.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\Men_Portrait.png</Source>
+      <Name>Texture\Character\Men_Portrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Men_Portrait.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\GameOver\gameover.png</Source>
+      <Name>Texture\GameOver\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\GameOver\gameoverbutton.png</Source>
+      <Name>Texture\GameOver\gameoverbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameoverbutton.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\GameOver\gameovername.png</Source>
+      <Name>Texture\GameOver\gameovername</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameovername.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\GameOver\gameover_lattice.png</Source>
+      <Name>Texture\GameOver\gameover_lattice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover_lattice.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Particle\OutliningParticle.png</Source>
+      <Name>Texture\Particle\OutliningParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\OutliningParticle.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\CCTVL.png</Source>
+      <Name>Texture\Enemy\CCTVL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVL.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\CCTVM.png</Source>
+      <Name>Texture\Enemy\CCTVM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVM.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\CCTVpoint.png</Source>
+      <Name>Texture\Enemy\CCTVpoint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVpoint.xnb</Output>
+      <Time>2018-02-14T06:32:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\CCTVR.png</Source>
+      <Name>Texture\Enemy\CCTVR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVR.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\exclamationMark.png</Source>
+      <Name>Texture\Enemy\exclamationMark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\exclamationMark.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\GuardMan.png</Source>
+      <Name>Texture\Enemy\GuardMan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\GuardMan.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\laser.png</Source>
+      <Name>Texture\Enemy\laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\laser.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\light1.png</Source>
+      <Name>Texture\Enemy\light1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\light2.png</Source>
+      <Name>Texture\Enemy\light2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\questionMark.png</Source>
+      <Name>Texture\Enemy\questionMark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\questionMark.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\Woman_Portrait.png</Source>
+      <Name>Texture\Character\Woman_Portrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Woman_Portrait.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\raccoon_stone.png</Source>
+      <Name>Texture\Misc_Objects\raccoon_stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\raccoon_stone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\LockGimmick\Elevator_Close.png</Source>
+      <Name>Texture\LockGimmick\Elevator_Close</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Close.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\LockGimmick\Elevator_Open.png</Source>
+      <Name>Texture\LockGimmick\Elevator_Open</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Open.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\plant1.png</Source>
+      <Name>Texture\Misc_Objects\plant1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\plant2.png</Source>
+      <Name>Texture\Misc_Objects\plant2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\plant3.png</Source>
+      <Name>Texture\Misc_Objects\plant3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant3.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\bird_stone.png</Source>
+      <Name>Texture\Misc_Objects\bird_stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bird_stone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\bear_stone.png</Source>
+      <Name>Texture\Misc_Objects\bear_stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bear_stone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\cat_stone.png</Source>
+      <Name>Texture\Misc_Objects\cat_stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\cat_stone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\rabbit_stone.png</Source>
+      <Name>Texture\Misc_Objects\rabbit_stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\rabbit_stone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\monkey_stone.png</Source>
+      <Name>Texture\Misc_Objects\monkey_stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\monkey_stone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\vase1.png</Source>
+      <Name>Texture\Misc_Objects\vase1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\vase2.png</Source>
+      <Name>Texture\Misc_Objects\vase2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\vase3.png</Source>
+      <Name>Texture\Misc_Objects\vase3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase3.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\vase4.png</Source>
+      <Name>Texture\Misc_Objects\vase4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase4.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\wall_floor_2.png</Source>
+      <Name>Texture\Floor\wall_floor_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\desk1.png</Source>
+      <Name>Texture\Misc_Objects\desk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\desk2.png</Source>
+      <Name>Texture\Misc_Objects\desk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\desk3.png</Source>
+      <Name>Texture\Misc_Objects\desk3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk3.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\desk4.png</Source>
+      <Name>Texture\Misc_Objects\desk4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk4.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\desk5.png</Source>
+      <Name>Texture\Misc_Objects\desk5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk5.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\desk6.png</Source>
+      <Name>Texture\Misc_Objects\desk6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk6.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\shelf1.png</Source>
+      <Name>Texture\Misc_Objects\shelf1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\shelf1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\printer.png</Source>
+      <Name>Texture\Misc_Objects\printer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\printer.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\pc_hints.png</Source>
+      <Name>Texture\PictureGimmick\pc_hints</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_hints.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\lock_pc.png</Source>
+      <Name>Texture\PictureGimmick\lock_pc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\lock_pc.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\vase1_hide1.png</Source>
+      <Name>Texture\Character\vase1_hide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\vase1_hide2.png</Source>
+      <Name>Texture\Character\vase1_hide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\vase2_hide1.png</Source>
+      <Name>Texture\Character\vase2_hide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\vase2_hide2.png</Source>
+      <Name>Texture\Character\vase2_hide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\vase3_hide1.png</Source>
+      <Name>Texture\Character\vase3_hide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\vase3_hide2.png</Source>
+      <Name>Texture\Character\vase3_hide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Particle\ShiningParticle.png</Source>
+      <Name>Texture\Particle\ShiningParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\ShiningParticle.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DiamondRoseGimmick\glass_back.png</Source>
+      <Name>Texture\DiamondRoseGimmick\glass_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_back.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DiamondRoseGimmick\glass_front.png</Source>
+      <Name>Texture\DiamondRoseGimmick\glass_front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_front.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DiamondRoseGimmick\treasure.png</Source>
+      <Name>Texture\DiamondRoseGimmick\treasure</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\treasure.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\poster.png</Source>
+      <Name>Texture\Misc_Objects\poster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\poster_small.png</Source>
+      <Name>Texture\Misc_Objects\poster_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster_small.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\bard_stone_hide.png</Source>
+      <Name>Texture\Character\bard_stone_hide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bard_stone_hide.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\bear_stone_hide.png</Source>
+      <Name>Texture\Character\bear_stone_hide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bear_stone_hide.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\cat_stone_hide.png</Source>
+      <Name>Texture\Character\cat_stone_hide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\cat_stone_hide.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\desk4_hide.png</Source>
+      <Name>Texture\Character\desk4_hide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk4_hide.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\desk5_hide.png</Source>
+      <Name>Texture\Character\desk5_hide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk5_hide.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\desk6_hide.png</Source>
+      <Name>Texture\Character\desk6_hide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk6_hide.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\monkey_stone_hide.png</Source>
+      <Name>Texture\Character\monkey_stone_hide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\monkey_stone_hide.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\plant_hide1.png</Source>
+      <Name>Texture\Character\plant_hide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\plant_hide2.png</Source>
+      <Name>Texture\Character\plant_hide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\rabit_stone_hide.png</Source>
+      <Name>Texture\Character\rabit_stone_hide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\rabit_stone_hide.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Character\raccoon_stone_hide.png</Source>
+      <Name>Texture\Character\raccoon_stone_hide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\raccoon_stone_hide.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Ending\gameclear.png</Source>
+      <Name>Texture\Ending\gameclear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Ending\gameclearbutton.png</Source>
+      <Name>Texture\Ending\gameclearbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearbutton.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Ending\gameclearname.png</Source>
+      <Name>Texture\Ending\gameclearname</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearname.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Ending\gameclear_heri1.png</Source>
+      <Name>Texture\Ending\gameclear_heri1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Ending\gameclear_heri2.png</Source>
+      <Name>Texture\Ending\gameclear_heri2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Ending\gameclear_heri3.png</Source>
+      <Name>Texture\Ending\gameclear_heri3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri3.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Ending\star_gameclear1.png</Source>
+      <Name>Texture\Ending\star_gameclear1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear1.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Ending\star_gameclear2.png</Source>
+      <Name>Texture\Ending\star_gameclear2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear2.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\LockGimmick\elevator.png</Source>
+      <Name>Texture\LockGimmick\elevator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elevator.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\LockGimmick\elev.png</Source>
+      <Name>Texture\LockGimmick\elev</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elev.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting8_LightCone.png</Source>
+      <Name>Texture\PictureGimmick\painting8_LightCone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_LightCone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting10_LightCone.png</Source>
+      <Name>Texture\PictureGimmick\painting10_LightCone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10_LightCone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting4_LightCone.png</Source>
+      <Name>Texture\PictureGimmick\painting4_LightCone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_LightCone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting6_LightCone.png</Source>
+      <Name>Texture\PictureGimmick\painting6_LightCone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_LightCone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting7_LightCone.png</Source>
+      <Name>Texture\PictureGimmick\painting7_LightCone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_LightCone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting9_LightCone.png</Source>
+      <Name>Texture\PictureGimmick\painting9_LightCone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_LightCone.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\light1_mask.png</Source>
+      <Name>Texture\Enemy\light1_mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1_mask.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SaruGimmick\Saru_Setsumei.png</Source>
+      <Name>Texture\SaruGimmick\Saru_Setsumei</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Setsumei.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SaruGimmick\Saru.png</Source>
+      <Name>Texture\SaruGimmick\Saru</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru.xnb</Output>
+      <Time>2018-02-14T06:32:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SaruGimmick\Saru_Button.png</Source>
+      <Name>Texture\SaruGimmick\Saru_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Button.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SaruGimmick\Saru_Limbs.png</Source>
+      <Name>Texture\SaruGimmick\Saru_Limbs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Limbs.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\light2_mask.png</Source>
+      <Name>Texture\Enemy\light2_mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2_mask.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\wall_floor_5.png</Source>
+      <Name>Texture\Floor\wall_floor_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_5.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\window_light_R.png</Source>
+      <Name>Texture\window_light_R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_R.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\window_light_L.png</Source>
+      <Name>Texture\window_light_L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_L.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\ParticleLight.png</Source>
+      <Name>Texture\ParticleLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\ParticleLight.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\nextButton.png</Source>
+      <Name>Texture\nextButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\nextButton.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting4_light.png</Source>
+      <Name>Texture\PictureGimmick\painting4_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_light.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting6_light.png</Source>
+      <Name>Texture\PictureGimmick\painting6_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_light.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting7_light.png</Source>
+      <Name>Texture\PictureGimmick\painting7_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_light.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting8_light.png</Source>
+      <Name>Texture\PictureGimmick\painting8_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_light.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\PictureGimmick\painting9_light.png</Source>
+      <Name>Texture\PictureGimmick\painting9_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_light.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\floor_fifth.png</Source>
+      <Name>Texture\Floor\floor_fifth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fifth.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\floor_first.png</Source>
+      <Name>Texture\Floor\floor_first</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_first.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\floor_fourth.png</Source>
+      <Name>Texture\Floor\floor_fourth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fourth.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\floor_saru.png</Source>
+      <Name>Texture\Floor\floor_saru</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_saru.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\floor_second.png</Source>
+      <Name>Texture\Floor\floor_second</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_second.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\floor_security.png</Source>
+      <Name>Texture\Floor\floor_security</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_security.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Floor\floor_third.png</Source>
+      <Name>Texture\Floor\floor_third</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_third.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\LockGimmick\Elevator_Light.png</Source>
+      <Name>Texture\LockGimmick\Elevator_Light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Light.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\1280black.png</Source>
+      <Name>Texture\1280black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\1280black.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SecurityRoomLights.png</Source>
+      <Name>Texture\SecurityRoomLights</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityRoomLights.xnb</Output>
+      <Time>2018-02-07T15:05:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\SecurityOfficeGimmick\Computer_Tutorial.png</Source>
+      <Name>Texture\SecurityOfficeGimmick\Computer_Tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Computer_Tutorial.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\Object_Light.png</Source>
+      <Name>Texture\Misc_Objects\Object_Light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Object_Light.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\Lights\plant3_light.png</Source>
+      <Name>Texture\Misc_Objects\Lights\plant3_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant3_light.xnb</Output>
+      <Time>2018-02-14T06:30:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\Lights\plant1_light.png</Source>
+      <Name>Texture\Misc_Objects\Lights\plant1_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant1_light.xnb</Output>
+      <Time>2018-02-14T06:30:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\Lights\plant2_light.png</Source>
+      <Name>Texture\Misc_Objects\Lights\plant2_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant2_light.xnb</Output>
+      <Time>2018-02-14T06:30:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Misc_Objects\Lights\vase_light.png</Source>
+      <Name>Texture\Misc_Objects\Lights\vase_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\vase_light.xnb</Output>
+      <Time>2018-02-14T06:30:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Saru_Room_light.png</Source>
+      <Name>Texture\Saru_Room_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Saru_Room_light.xnb</Output>
+      <Time>2018-02-14T06:32:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DiamondRoseGimmick\PinkRoseButton.png</Source>
+      <Name>Texture\DiamondRoseGimmick\PinkRoseButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\PinkRoseButton.xnb</Output>
+      <Time>2018-02-14T06:32:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Enemy\Super_Guardman.png</Source>
+      <Name>Texture\Enemy\Super_Guardman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\Super_Guardman.xnb</Output>
+      <Time>2018-02-14T06:32:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\BackGroundLight\PinkRoseButton_Light.png</Source>
+      <Name>Texture\BackGroundLight\PinkRoseButton_Light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\BackGroundLight\PinkRoseButton_Light.xnb</Output>
+      <Time>2018-02-14T06:32:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\dialogue.spritefont</Source>
+      <Name>Font\dialogue</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Font\dialogue.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\gameclear_bgm.mp3</Source>
+      <Name>BGM\gameclear_bgm</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\gameover.mp3</Source>
+      <Name>BGM\gameover</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\gameplay_bgm.mp3</Source>
+      <Name>BGM\gameplay_bgm</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\title_bgm.mp3</Source>
+      <Name>BGM\title_bgm</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\autodoor.mp3</Source>
+      <Name>SE\autodoor</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\autodoor.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\bike-pass.mp3</Source>
+      <Name>SE\bike-pass</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\car-pass.mp3</Source>
+      <Name>SE\car-pass</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\click.mp3</Source>
+      <Name>SE\click</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\click.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\dash-high-heele.mp3</Source>
+      <Name>SE\dash-high-heele</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\dash-leather-shoes.mp3</Source>
+      <Name>SE\dash-leather-shoes</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\hatch.mp3</Source>
+      <Name>SE\hatch</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\key.mp3</Source>
+      <Name>SE\key</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\key.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\key.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\metal.mp3</Source>
+      <Name>SE\metal</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\metal.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\pc_button.mp3</Source>
+      <Name>SE\pc_button</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_button.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\quiet-residential-area.mp3</Source>
+      <Name>SE\quiet-residential-area</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\town.mp3</Source>
+      <Name>SE\town</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\town.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\town.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\train-horn.mp3</Source>
+      <Name>SE\train-horn</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\train-pass.mp3</Source>
+      <Name>SE\train-pass</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\transceiver.mp3</Source>
+      <Name>SE\transceiver</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\walk-leather-shoes.mp3</Source>
+      <Name>SE\walk-leather-shoes</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.xnb</Output>
+      <Extra>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.wma</Extra>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\warning.mp3</Source>
+      <Name>SE\warning</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\warning.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\page.mp3</Source>
+      <Name>SE\page</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\page.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\man_walk.mp3</Source>
+      <Name>SE\man_walk</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\man_walk.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\pc_move.mp3</Source>
+      <Name>SE\pc_move</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_move.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\pc_ok.mp3</Source>
+      <Name>SE\pc_ok</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_ok.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\pc_no.mp3</Source>
+      <Name>SE\pc_no</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_no.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\door.wav</Source>
+      <Name>SE\door</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\door.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SE\cat.wav</Source>
+      <Name>SE\cat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\cat.xnb</Output>
+      <Time>2018-02-07T15:05:50+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{114B4DBE-700D-48AE-818F-CB6987799F68}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22Content\</RootDirectory>
+      <LoggerRootDirectory>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-28T10:26:43.7978466+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

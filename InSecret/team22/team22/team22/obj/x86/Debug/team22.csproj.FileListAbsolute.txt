@@ -1,0 +1,960 @@
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\black.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\block.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\load.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\少女_正面.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Ue.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Shita.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\block2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet3.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet4.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet5.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\transparent.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\door1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\door2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\computer_select.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pass.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_flame.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\alphabet_select.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter_select.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\wall_floor1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_text.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_num.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Man_Model.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Woman_Model.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\unlock.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\entrance.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_select.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_titlename.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\select_cursor.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\title.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\star.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\star1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\star2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\star_gameclear.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\rule.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\rulebutton.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\select.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\security_room.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\saru_room.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Hacking_Terminal.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Virus.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Firewall.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\LockedFolder.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Men_Portrait.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameoverbutton.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameovername.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover_lattice.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\OutliningParticle.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVL.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVM.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVpoint.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVR.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\exclamationMark.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\GuardMan.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\laser.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\questionMark.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Woman_Portrait.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\raccoon_stone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Close.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Open.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant3.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bird_stone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bear_stone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\cat_stone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\rabbit_stone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\monkey_stone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase3.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase4.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk3.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk4.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk5.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk6.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\shelf1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\printer.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_hints.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\lock_pc.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\ShiningParticle.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_back.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_front.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\treasure.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster_small.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bard_stone_hide.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bear_stone_hide.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\cat_stone_hide.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk4_hide.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk5_hide.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk6_hide.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\monkey_stone_hide.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\rabit_stone_hide.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\raccoon_stone_hide.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearbutton.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearname.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri3.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear1.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear2.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elevator.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elev.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_LightCone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10_LightCone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_LightCone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_LightCone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_LightCone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_LightCone.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1_mask.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Setsumei.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Button.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Limbs.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2_mask.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_5.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_R.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_L.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\ParticleLight.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\nextButton.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fifth.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_first.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fourth.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_saru.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_second.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_security.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_third.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\1280black.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityRoomLights.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Computer_Tutorial.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Object_Light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Font\dialogue.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\autodoor.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\click.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\key.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\metal.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\pc_button.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\town.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\warning.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\page.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\man_walk.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\pc_move.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\pc_ok.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\pc_no.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\door.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\cat.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\key.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\town.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.wma
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\stage.csv
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\team22.exe
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\team22.pdb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.dll
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.xml
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\obj\x86\Debug\team22.exe
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\obj\x86\Debug\team22.pdb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\obj\x86\Debug\team22.csprojResolveAssemblyReference.cache
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant3_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant1_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant2_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\vase_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Saru_Room_light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\PinkRoseButton.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\BackGroundLight\PinkRoseButton_Light.xnb
+G:\171116_チーム制作_1年生\InSecret-Version1\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\Super_Guardman.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\black.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\block.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\load.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\少女_正面.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Ue.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Shita.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\block2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet3.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet4.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet5.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\transparent.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\door1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\door2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\computer_select.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pass.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_flame.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\alphabet_select.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter_select.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\wall_floor1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_text.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_num.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Man_Model.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Woman_Model.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\unlock.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\entrance.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_select.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_titlename.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\select_cursor.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\title.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\star.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\star1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\star2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\star_gameclear.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\rule.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\rulebutton.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\select.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\security_room.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\saru_room.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Hacking_Terminal.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Virus.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Firewall.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\LockedFolder.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Men_Portrait.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameoverbutton.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameovername.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover_lattice.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\OutliningParticle.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVL.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVM.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVpoint.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVR.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\exclamationMark.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\GuardMan.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\laser.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\questionMark.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Woman_Portrait.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\raccoon_stone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Close.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Open.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant3.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bird_stone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bear_stone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\cat_stone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\rabbit_stone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\monkey_stone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase3.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase4.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk3.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk4.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk5.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk6.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\shelf1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\printer.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_hints.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\lock_pc.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\ShiningParticle.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_back.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_front.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\treasure.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster_small.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bard_stone_hide.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bear_stone_hide.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\cat_stone_hide.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk4_hide.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk5_hide.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk6_hide.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\monkey_stone_hide.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\rabit_stone_hide.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\raccoon_stone_hide.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearbutton.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearname.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri3.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear1.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear2.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elevator.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elev.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_LightCone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10_LightCone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_LightCone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_LightCone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_LightCone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_LightCone.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1_mask.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Setsumei.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Button.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Limbs.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2_mask.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_5.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_R.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_L.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\ParticleLight.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\nextButton.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fifth.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_first.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fourth.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_saru.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_second.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_security.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_third.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\1280black.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityRoomLights.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Computer_Tutorial.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Object_Light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant3_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant1_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant2_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\vase_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Saru_Room_light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\PinkRoseButton.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\Super_Guardman.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Texture\BackGroundLight\PinkRoseButton_Light.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\Font\dialogue.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\autodoor.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\click.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\key.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\metal.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\pc_button.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\town.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\warning.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\page.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\man_walk.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\pc_move.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\pc_ok.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\pc_no.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\door.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\cat.xnb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\key.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\town.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.wma
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Content\stage.csv
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\team22.exe
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\team22.pdb
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\obj\x86\Debug\team22.csprojResolveAssemblyReference.cache
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\obj\x86\Debug\team22.exe
+C:\Users\K017A1484\Desktop\team22\team22\team22\team22\obj\x86\Debug\team22.pdb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\black.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\block.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\load.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\少女_正面.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Ue.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Shita.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\block2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet3.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet4.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet5.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\transparent.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\door1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\door2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\computer_select.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pass.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_flame.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\alphabet_select.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter_select.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\wall_floor1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_text.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_num.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Man_Model.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Woman_Model.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\unlock.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\entrance.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_select.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_titlename.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\select_cursor.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\title.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star_gameclear.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\rule.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\rulebutton.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\select.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\security_room.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\saru_room.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Hacking_Terminal.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Virus.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Firewall.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\LockedFolder.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Men_Portrait.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameoverbutton.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameovername.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover_lattice.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\OutliningParticle.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVL.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVM.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVpoint.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVR.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\exclamationMark.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\GuardMan.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\laser.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\questionMark.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Woman_Portrait.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\raccoon_stone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Close.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Open.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant3.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bird_stone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bear_stone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\cat_stone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\rabbit_stone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\monkey_stone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase3.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase4.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk3.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk4.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk5.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk6.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\shelf1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\printer.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_hints.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\lock_pc.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\ShiningParticle.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_back.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_front.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\treasure.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster_small.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bard_stone_hide.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bear_stone_hide.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\cat_stone_hide.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk4_hide.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk5_hide.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk6_hide.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\monkey_stone_hide.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\rabit_stone_hide.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\raccoon_stone_hide.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearbutton.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearname.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri3.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear1.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear2.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elevator.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elev.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_LightCone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10_LightCone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_LightCone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_LightCone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_LightCone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_LightCone.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1_mask.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Setsumei.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Button.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Limbs.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2_mask.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_5.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_R.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_L.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\ParticleLight.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\nextButton.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fifth.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_first.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fourth.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_saru.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_second.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_security.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_third.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\1280black.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityRoomLights.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Computer_Tutorial.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Object_Light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant3_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant1_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant2_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\vase_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Saru_Room_light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\PinkRoseButton.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\Super_Guardman.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\BackGroundLight\PinkRoseButton_Light.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Font\dialogue.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\autodoor.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\click.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\key.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\metal.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_button.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\town.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\warning.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\page.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\man_walk.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_move.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_ok.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_no.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\door.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\cat.xnb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\key.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\town.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.wma
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\stage.csv
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\team22.exe
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\team22.pdb
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.dll
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.xml
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\obj\x86\Debug\team22.csprojResolveAssemblyReference.cache
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\obj\x86\Debug\team22.exe
+G:\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\obj\x86\Debug\team22.pdb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\black.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\block.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\load.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\少女_正面.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Ue.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Boundaries_Shita.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\block2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet3.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet4.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_alphabet5.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\transparent.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\door1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\door2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\computer_select.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pass.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\picture_flame.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\alphabet_select.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_enter_select.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\wall_floor1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_text.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_num.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Man_Model.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Woman_Model.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\unlock.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\entrance.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_select.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\prov_titlename.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\select_cursor.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\title.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\star_gameclear.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\rule.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\rulebutton.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\select.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase1_hide2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase2_hide2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\vase3_hide2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\security_room.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\saru_room.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Hacking_Terminal.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Virus.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Firewall.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\LockedFolder.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Men_Portrait.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameoverbutton.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameovername.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\GameOver\gameover_lattice.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\OutliningParticle.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVL.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVM.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVpoint.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\CCTVR.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\exclamationMark.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\GuardMan.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\laser.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\questionMark.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\Woman_Portrait.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\raccoon_stone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Close.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Open.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\plant3.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bird_stone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\bear_stone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\cat_stone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\rabbit_stone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\monkey_stone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase3.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\vase4.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk3.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk4.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk5.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\desk6.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\shelf1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\printer.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\pc_hints.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\lock_pc.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase1_hide2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase2_hide2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\vase3_hide2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Particle\ShiningParticle.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_back.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\glass_front.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\treasure.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\poster_small.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bard_stone_hide.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\bear_stone_hide.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\cat_stone_hide.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk4_hide.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk5_hide.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\desk6_hide.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\monkey_stone_hide.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\plant_hide2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\rabit_stone_hide.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Character\raccoon_stone_hide.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearbutton.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclearname.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\gameclear_heri3.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear1.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Ending\star_gameclear2.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elevator.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\elev.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_LightCone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting10_LightCone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_LightCone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_LightCone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_LightCone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_LightCone.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light1_mask.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Setsumei.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Button.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SaruGimmick\Saru_Limbs.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\light2_mask.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\wall_floor_5.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_R.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\window_light_L.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\ParticleLight.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\nextButton.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting4_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting6_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting7_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting8_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\PictureGimmick\painting9_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fifth.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_first.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_fourth.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_saru.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_second.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_security.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Floor\floor_third.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\LockGimmick\Elevator_Light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\1280black.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityRoomLights.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\SecurityOfficeGimmick\Computer_Tutorial.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Object_Light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant3_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant1_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\plant2_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Misc_Objects\Lights\vase_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Saru_Room_light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\DiamondRoseGimmick\PinkRoseButton.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\Enemy\Super_Guardman.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Texture\BackGroundLight\PinkRoseButton_Light.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\Font\dialogue.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\autodoor.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\click.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\key.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\metal.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_button.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\town.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\warning.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\page.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\man_walk.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_move.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_ok.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\pc_no.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\door.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\cat.xnb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameclear_bgm.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameover.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\gameplay_bgm.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\BGM\title_bgm.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\bike-pass.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\car-pass.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-high-heele.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\dash-leather-shoes.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\hatch.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\key.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\quiet-residential-area.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\town.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-horn.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\train-pass.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\transceiver.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\SE\walk-leather-shoes.wma
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Content\stage.csv
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\team22.exe
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\team22.pdb
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.dll
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.xml
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\obj\x86\Debug\team22.csprojResolveAssemblyReference.cache
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\obj\x86\Debug\team22.exe
+G:\工学院専門学校\Projects\一年生\171116_チーム制作_1年生\From Other\Rhesa 180214-2\team22\team22\team22\obj\x86\Debug\team22.pdb
